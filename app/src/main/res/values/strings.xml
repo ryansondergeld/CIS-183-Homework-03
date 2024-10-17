@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Homework 03</string>
+    <string name="id">ID:</string>
+    <string name="id_hint">Student ID</string>
+    <string name="first_name">First Name:</string>
+    <string name="first_name_hint">First name</string>
+    <string name="last_name">Last Name:</string>
+    <string name="last_name_hint">Last name</string>
+    <string name="email">Email:</string>
+    <string name="email_hint">Email</string>
+    <string name="gpa">GPA:</string>
+    <string name="gpa_hint">GPA</string>
+    <string name="age">Age:</string>
+    <string name="age_hint">Age</string>
+    <string name="major">Major:</string>
+    <string name="major_hint">Select major</string>
+    <string name="gpa_filter">&lt; &#160; GPA &#160; &lt;</string>
+</resources>

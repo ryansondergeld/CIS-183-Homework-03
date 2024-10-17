@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="student_columns">
+        <item>id</item>
+        <item>first_name</item>
+        <item>last_name</item>
+        <item>email</item>
+        <item>age</item>
+        <item>gpa</item>
+        <item>major_id</item>
+    </string-array>
+    <string-array name="sort_order">
+        <item>asc</item>
+        <item>desc</item>
+    </string-array>
+</resources>
